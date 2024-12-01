@@ -1,5 +1,6 @@
 """
 동기 실행 코드 - https://techblog-history-younghunjo1.tistory.com/570
+Total request time is 11.613440752029419
 """
 
 import requests
