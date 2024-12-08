@@ -1,3 +1,8 @@
+"""
+비동기 실행 코드(멀티 프로세스) - https://techblog-history-younghunjo1.tistory.com/570
+elapsed-time: 8.594778776168823
+"""
+
 import os
 import threading
 import time
